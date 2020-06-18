@@ -67,9 +67,11 @@ To start and run the local development server,
   Install python3.X
 
 4. Database migration
+```
   $ flask db init
   $ flask db migrate
   $ flask db upgrade
+```
 
 Now check tables are created or not.
 Now insert some data to the tables so website could leverage it and show data on website.
