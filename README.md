@@ -61,12 +61,12 @@ To start and run the local development server,
   $ pip install -r requirements.txt
   ```
 3. Database
-```
+
 * **Install postgresql** or any database you would like to work on.
 * **Install SQLAlchemy and psycopg2-binary**
 * **Install Flask** 
 * **Install **python3.X**
-```
+
 4. Database migration
 ```
   $ flask db init
